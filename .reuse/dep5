@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Toolbox
+Upstream-Contact: alegotta <alegotta at github dot com>
+Source: https://www.github.com/alegotta/toolbox
+
+Files: *
+Copyright: 2021 alegotta <alegotta at github dot com>
+License: CC-BY-4.0
