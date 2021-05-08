@@ -143,7 +143,7 @@ TODO: Explore best settings, see [here](https://slhck.info/video/2017/03/01/rate
 - `-q[:stream] <quality>:` set the quality for Variable Bit Rate mode
 
 |Codec|FFMPEG library|Type|*Reasonable* Bitrate|Quality|Compression Level|Notes|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |**FLAC**|`flac`|Lossless|-|-|0-12||
 |**OPUS**|`libopus`|Lossy|64-128|- *(VBR by default)*|0-10|See [Reccomended Bitrates](https://wiki.xiph.org/Opus_Recommended_Settings#Recommended_Bitrates)|
 |**OGG**|`libvorbis`|Lossy|90-256|2-9|-|
